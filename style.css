@@ -1,0 +1,120 @@
+body {
+    background-image: url('https://wallpapercave.com/wp/wp2280973.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+.div1 {
+    background-color: white;
+    height: 100px;
+    width: 400px;
+    position: absolute;
+    bottom: 650px;
+    right: 860px;
+
+}
+
+.div2 {
+    height: 14px;
+    width: 400px;
+    position: absolute;
+    bottom: 650px;
+    right: 860px;
+    top: 20px;
+     background-color: white;
+
+
+}
+
+.div3 {
+    background-color: white;
+    height: 0px;
+    width: 400px;
+    position: absolute;
+    bottom: 680px;
+    right: 770px;
+}
+
+.h1 {
+    font-size: 75px;
+    color: orange;
+    font-family:  "Lucida Console", "Courier New", monospace;
+}
+
+.TudorSamy {
+    color: orange;
+    font-family: "	Brush Script MT", cursive;
+}
+
+.h1S {
+    font-size: 75px;
+    color: orange;
+    font-family:  "Lucida Console", "Courier New", monospace;
+
+}
+
+.gsm {
+    height: 0px;
+    width: 400px;
+    position: absolute;
+    right: 650px;
+    top: 190px;
+     background-color: white;
+
+}
+
+.gsmm {
+    color: orange;
+    font-family:  "Lucida Console", "Courier New", monospace;
+}
+
+.imagineTelefon {
+    background-color: white;
+    height: 300px;
+    width: 250px;
+    position: absolute;
+    bottom: 500px;
+    right: 450px;
+}
+
+
+.info {
+    background-color: white;
+    height: 30px;
+    width: 400px;
+    position: absolute;
+    bottom: 490px;
+    right: 800px;
+
+}
+  
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: orange;
+}
+ 
+.info2 {
+    background-color: white;
+    height: 30px;
+    width: 400px;
+    position: absolute;
+    bottom: 450px;
+    right: 680px;
+}
+
+.telefon {
+    background-color: white;
+    height: 0px;
+    width: 400px;
+    position: absolute;
+    bottom: 420px;
+    right: 600px;
+    color: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.h22 {
+    color: orange;
+}
